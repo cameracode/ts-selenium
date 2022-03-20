@@ -1,2 +1,2 @@
-# js-selenium
- A simple exercise into JavaScript and Selenium
+# ts-selenium
+ A simple exercise into TypeScript, Mocha, and Selenium
