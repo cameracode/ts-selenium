@@ -13,6 +13,6 @@ async function example() {
         Key.RETURN);
 
     // close the browser
-    //await driver.quit();
+    await driver.quit();
 }
 example();
